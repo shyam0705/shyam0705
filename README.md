@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam Patel</h1>
-<h3 align="center">3'rd year CSE student at NIT Jaipur</h3>
+<h3 align="center">Upcoming intern at JP Morgan | Former intern at Samsung(SRIB) | Senior at NIT Jaipur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam0705&label=Profile%20views&color=0e75b6&style=flat" alt="shyam0705" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shyam07052002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19HSHTvKf5JeuP8RiJDDnY6Tm41BOeSvp/view?usp=sharing](https://drive.google.com/file/d/19HSHTvKf5JeuP8RiJDDnY6Tm41BOeSvp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o8SEenf_TJC-NoAcpaN2Jjgc3I0oIKmz/view?usp=sharing](https://drive.google.com/file/d/1o8SEenf_TJC-NoAcpaN2Jjgc3I0oIKmz/view?usp=sharing)
 
 - ⚡ Fun fact **I am huge cricket fan**
 
